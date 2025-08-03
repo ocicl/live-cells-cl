@@ -4,6 +4,6 @@ A reactive programming library for Lisp
 
 |---------+----------------------------------------------------------------------------------|
 | source  | file:https://github.com/alex-gutev/live-cells-cl/archive/refs/tags/v0.1.0.tar.gz |
-| commit  | version:v0.1.0                                                                   |
+| version | v0.1.0                                                                           |
 | systems | live-cells                                                                       |
 |---------+----------------------------------------------------------------------------------|
